@@ -4,10 +4,9 @@ This repository contains the constructed Smartphone Photography Attribute and Qu
 
 Download:
 
-
-&emsp; ![](./images/icon_pdf.png) &emsp; &emsp; &emsp; ![](./images/icon_pdf.png) &emsp; &emsp; &emsp;  &emsp; ![](./images/icon_zip.png) &emsp; &emsp; &emsp;  ![](./images/icon_pdf.png)
-&emsp; &emsp; &emsp; &emsp;  [paper](https://drive.google.com/open?id=1F8f5ofHoZ8MO1iukrcYrKjLBX4uydboA)  &emsp;  &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; [supplementary](https://drive.google.com/open?id=1UxeriQOhLX7Qn5EEUlhej5XD2o6MLv_8) &emsp; &emsp; &emsp; &ensp; &emsp; &emsp; &emsp;[SPAQ database](https://pan.baidu.com/s/1BFLj_0qXaXRUHPp2WraeRA) &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &emsp;[Poster](https://drive.google.com/open?id=1lMI3fAJvCaicY_EcNOT0bz3_FWlA3GeK)
-&emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  (Password: izg9)
+&emsp;　![](./images/icon_pdf.png) &emsp;　&emsp;　&emsp;　![](./images/icon_pdf.png) &emsp;　&emsp;　&emsp;　![](./images/icon_zip.png)　&emsp;　&emsp;　&emsp;　![](./images/icon_pdf.png)<br>
+&emsp;　&emsp;　&ensp; [paper](https://drive.google.com/open?id=1F8f5ofHoZ8MO1iukrcYrKjLBX4uydboA)　&emsp;　&emsp;　&emsp;　&emsp;　&ensp;  [supplementary](https://drive.google.com/open?id=1UxeriQOhLX7Qn5EEUlhej5XD2o6MLv_8)　&emsp;　&emsp;　&emsp;　&ensp;　[SPAQ database](https://pan.baidu.com/s/1BFLj_0qXaXRUHPp2WraeRA) &emsp;　&emsp;　&emsp;　&emsp;　&ensp;　[Poster](https://drive.google.com/open?id=1lMI3fAJvCaicY_EcNOT0bz3_FWlA3GeK)
+<br> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  (Password: izg9)
 
 		
 
