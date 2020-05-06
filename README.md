@@ -5,7 +5,7 @@ This repository contains the constructed Smartphone Photography Attribute and Qu
 Download:
 
 &emsp;　![](./images/icon_pdf.png) &emsp;　&emsp;　&emsp;　![](./images/icon_pdf.png) &emsp;　&emsp;　&emsp;　![](./images/icon_zip.png)　&emsp;　&emsp;　&emsp;　![](./images/icon_pdf.png)<br>
-&emsp;　&emsp;　&ensp; [paper](https://drive.google.com/open?id=1F8f5ofHoZ8MO1iukrcYrKjLBX4uydboA)　&emsp;　&emsp;　&emsp;　&emsp;　&ensp;  [supplementary](https://drive.google.com/open?id=1UxeriQOhLX7Qn5EEUlhej5XD2o6MLv_8)　&emsp;　&emsp;　&emsp;　&ensp;　[SPAQ database](https://pan.baidu.com/s/1BFLj_0qXaXRUHPp2WraeRA) &emsp;　&emsp;　&emsp;　&emsp;　&ensp;　[Poster](https://drive.google.com/open?id=1lMI3fAJvCaicY_EcNOT0bz3_FWlA3GeK)
+&emsp;　&emsp;　&ensp; [paper](https://drive.google.com/open?id=1F8f5ofHoZ8MO1iukrcYrKjLBX4uydboA)　&emsp;　&emsp;　&emsp;　&emsp;　&ensp;  [supplementary](https://drive.google.com/open?id=1UxeriQOhLX7Qn5EEUlhej5XD2o6MLv_8)　&emsp;　&emsp;　&emsp;　&ensp;　[SPAQ database](https://pan.baidu.com/s/1BFLj_0qXaXRUHPp2WraeRA) &emsp;　&emsp;　&emsp;　&emsp;　&ensp;　[Poster](https://drive.google.com/open?id=1ikSmCy0hBaeEftajIGT7uEvJ6e5a_dNI)
 <br> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  (Password: izg9)
 
 		
@@ -20,10 +20,10 @@ The SPAQ database and the annotations (MOS, image attributes scores, EXIF tags, 
 
 
 ## Proposed Models 
-We provide two images to test the blind image quality assessment (BIQA) models.
+We train a baseline (BL) to predict the quality of captured images and three variants that make use of EXIF tags (MT-E), image attributes (MT-A), and scene category labels (MT-S). We provide two images to test the blind image quality assessment (BIQA) models.
 
 ### Prerequisites
-The release version of BIQA models were implemented and has been tested in Ubuntu 16.04 with
+The release version of BIQA models were implemented and have been tested in Ubuntu 16.04 with
 - Python = 3.5.0
 - PyTorch = 1.1.1
 - torchvision = 0.3.0 
@@ -50,7 +50,6 @@ The pretrained checkpoint of MT-S can be obtained at [MT-S_release.pt](https://d
 ```
 python MT-S_demo.py
 ```
-
 
 ## Reference
 
