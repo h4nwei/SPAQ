@@ -4,8 +4,8 @@ This repository contains the constructed Smartphone Photography Attribute and Qu
 
 Download:
 
-&emsp;　![](./images/icon_pdf.png) &emsp;　&emsp;　&emsp;　![](./images/icon_pdf.png) &emsp;　&emsp;　&emsp;　![](./images/icon_zip.png)　&emsp;　&emsp;　&emsp;　![](./images/icon_pdf.png)<br>
-&emsp;　&emsp;　&ensp; [paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_Perceptual_Quality_Assessment_of_Smartphone_Photography_CVPR_2020_paper.pdf)　&emsp;　&emsp;　&emsp;　&emsp;　&ensp;  [supplementary](https://drive.google.com/open?id=1UxeriQOhLX7Qn5EEUlhej5XD2o6MLv_8)　&emsp;　&emsp;　&emsp;　&ensp;　SPAQ database &emsp;　&emsp;　&emsp;　&emsp;　&ensp;　[Poster](https://drive.google.com/file/d/1rhSgzAtAiryenF-xK9A8etoOlahcdGZZ/view?usp=sharing)
+&emsp;　![](./images/icon_pdf.png) &emsp;　&emsp;　&emsp;　![](./images/icon_pdf.png) &emsp;　&emsp;　&emsp;　![](./images/icon_zip.png)　&emsp;　&emsp;　![](./images/icon_pdf.png)<br>
+&emsp;　&emsp;　&ensp; [paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_Perceptual_Quality_Assessment_of_Smartphone_Photography_CVPR_2020_paper.pdf)　&emsp;　&emsp;　&emsp;　&emsp;　&ensp;  [supplementary](https://drive.google.com/open?id=1UxeriQOhLX7Qn5EEUlhej5XD2o6MLv_8)　&emsp;　&emsp;　&emsp;　&ensp;　SPAQ database &emsp;　&emsp;　&ensp;　[Poster](https://drive.google.com/file/d/1rhSgzAtAiryenF-xK9A8etoOlahcdGZZ/view?usp=sharing)
 
 
 		
