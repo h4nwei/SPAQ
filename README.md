@@ -58,7 +58,7 @@ python MT-S_demo.py
 - K. He, X. Zhang, S. Ren, and J. Sun. Deep residual learning for image recognition. In *IEEE Conference on Computer vison and Pattern Recognition*, pages 770–778, 2016.
 
 ## Citation
-```
+```bibtex
 @inproceedings{fang2020cvpr,
 title={Perceptual Quality Assessment of Smartphone Photography},
 author={Fang, Yuming and Zhu, Hanwei and Zeng, Yan and Ma, Kede and Wang, Zhou},
