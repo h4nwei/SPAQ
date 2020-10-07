@@ -42,7 +42,7 @@ python MT-E_demo.py
 ### Multi-Task Learning from Image Attributes (MT-A)
 The pretrained checkpoint of MT-A can be obtained at [MT-A_release.pt](https://drive.google.com/open?id=1j0GmSgfzkB0gYu4zLVXCrlv3b3J20eOv). To test the MT-A model with the default setting:
 ```
-python BS_demo.py
+python MT-A_demo.py
 ```
 
 ### Multi-Task Learning from Scene Semantics (MT-S）
