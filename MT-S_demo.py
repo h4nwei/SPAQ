@@ -98,6 +98,7 @@ class Demo(object):
 		image_2 = self.prepare_image(Image.open(self.config.image_2).convert("RGB"))
 
 		image_1 = image_1.to(self.device)
+		self.model.eval()
 		score_1, _ = self.model(image_1)
 		print(score_1.mean().item())
 		image_2 = image_2.to(self.device)

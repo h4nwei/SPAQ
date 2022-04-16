@@ -79,6 +79,7 @@ class Demo(object):
 
 		image_1 = image_1.to(self.device)
 		exif_tags_1 = exif_tags_1.to(self.device)
+		self.model.eval()
 		score_1 = self.model(image_1, exif_tags_1).mean()
 		print(score_1.item())
 		image_2 = image_2.to(self.device)
