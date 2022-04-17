@@ -5,7 +5,7 @@ This repository contains the constructed Smartphone Photography Attribute and Qu
 Download:
 
 &emsp;　![](./images/icon_pdf.png) &emsp;　&emsp;　&emsp;　![](./images/icon_pdf.png) &emsp;　&emsp;　&emsp;　![](./images/icon_zip.png)　&emsp;　&emsp;　![](./images/icon_pdf.png)<br>
-&emsp;　&emsp;　&ensp; [paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_Perceptual_Quality_Assessment_of_Smartphone_Photography_CVPR_2020_paper.pdf)　&emsp;　&emsp;　&emsp;　&emsp;　&ensp;  [supplementary](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Fang_Perceptual_Quality_Assessment_CVPR_2020_supplemental.pdf)　&emsp;　&emsp;　&emsp;　&ensp;　SPAQ database &emsp;　&emsp;　&ensp;　[PPT](https://drive.google.com/file/d/1rhSgzAtAiryenF-xK9A8etoOlahcdGZZ/view?usp=sharing)
+&emsp;　&emsp;　&ensp; [paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_Perceptual_Quality_Assessment_of_Smartphone_Photography_CVPR_2020_paper.pdf)　&emsp;　&emsp;　&emsp;　&emsp;　&ensp;  [supplementary](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Fang_Perceptual_Quality_Assessment_CVPR_2020_supplemental.pdf)　&emsp;　&emsp;　&emsp;　&ensp;　SPAQ database &emsp;　&emsp; &emsp;　&ensp;　[PPT](https://drive.google.com/file/d/1rhSgzAtAiryenF-xK9A8etoOlahcdGZZ/view?usp=sharing)
 
 
 		
@@ -16,7 +16,7 @@ As smartphones become people's primary cameras to take photos, the quality of th
 
 
 ## Database
-The SPAQ database and the annotations (MOS, image attributes scores, EXIF tags, and scene catogory labels) can be downloaded at the [**Baidu Yun**](https://pan.baidu.com/s/18YzAtXb4cGdBGAsxuEVBOw) (Code: b29m) or [**Google driver**](https://drive.google.com/drive/u/1/folders/1wZ6HOHi5h43oxTe2yLYkFxwHPgJ9MwvT).
+The SPAQ database and the annotations (MOS, image attributes scores, EXIF tags, and scene catogory labels) can be downloaded at the [**Baidu Yun**](https://pan.baidu.com/s/18YzAtXb4cGdBGAsxuEVBOw) (Code: b29m) or [**Google drive**](https://drive.google.com/drive/u/1/folders/1wZ6HOHi5h43oxTe2yLYkFxwHPgJ9MwvT).
 
 
 ## Proposed Models 
