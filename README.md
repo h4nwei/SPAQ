@@ -16,7 +16,7 @@ As smartphones become people's primary cameras to take photos, the quality of th
 
 
 ## Database
-The SPAQ database and the annotations (MOS, image attributes scores, EXIF tags, and scene catogory labels) can be downloaded at the [**Baidu Yun**](https://pan.baidu.com/s/18YzAtXb4cGdBGAsxuEVBOw) (Code: b29m) or [**Google drive**](https://drive.google.com/drive/u/1/folders/1wZ6HOHi5h43oxTe2yLYkFxwHPgJ9MwvT).
+The SPAQ database and the annotations (MOS, image attributes scores, EXIF tags, and scene category labels) can be downloaded at the [**Baidu Yun**](https://pan.baidu.com/s/18YzAtXb4cGdBGAsxuEVBOw) (Code: b29m) or [**Google Drive**](https://drive.google.com/drive/u/1/folders/1wZ6HOHi5h43oxTe2yLYkFxwHPgJ9MwvT).
 
 
 ## Proposed Models 
