@@ -36,28 +36,7 @@ unzip SPAQ_fixed.zip
 
 ### Codes
 For directly apply my codes, your dir tree should be like this:
-📁SPAQ
-├─ 📁Annotations
-│  ├─ 📄EXIF_tags.xlsx
-│  ├─ 📄MOS and Image attribute scores.xlsx
-│  └─ 📄Scene category labels.xlsx
-└─ 📁SPAQ zip
-   ├─ 📄pickImage.py
-   ├─ 📄demagedImgs.txt
-   ├─ 📄OutputErrorImages.py
-   ├─ 📄SPAQ.z01
-   ├─ 📄SPAQ.z02
-   ├─ 📄SPAQ.z03
-   ├─ 📄SPAQ.z04
-   ├─ 📄SPAQ.z05
-   ├─ 📄SPAQ.z06
-   ├─ 📄SPAQ.zip
-   ├─ 📁updated
-   ├─ 📁TestImage
-   │  ├─ 📄00001.jpg
-   │  ├─ 📄00002.jpg
-   │  ├─....
-
+![dir tree](./dirtree.jpg)
 
 ```
 ### OutputErrorImages.py
