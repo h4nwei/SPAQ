@@ -1,12 +1,14 @@
 ## Manual for SPAQ dataset unzip at linux / SPAQ数据集在linux下解压的方法
 ### English Version
 #### Background
-Since SPAQ.zip is a large file and cannot be directly unzipped in linux device with “unzip”, the author compresses SPAQ into splits. But there is still the possibility of data corruption. I have recorded the problems and solutions encountered after decompressing large files. I hope it could contribute to the SPAQ or IQA community.
+Since SPAQ.zip is a large file and cannot be directly unzipped in linux device with “unzip”, the author compressed SPAQ into splits. But there is still the possibility of data corruption. I have recorded the problems and solutions encountered after decompressing large files. Hopefully it could contribute to the SPAQ or IQA community.
 
 #### How To Unzip The Split Zip?
 1. Precondition
+
 All the *.z* file (including .zip) have been set at linux destination device.
 2. Command
+
 ```
 zip -FF SPAQ.zip --out SPAQ_fixed.zip
 unzip SPAQ_fixed.zip
