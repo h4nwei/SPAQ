@@ -18,7 +18,7 @@ As smartphones become people's primary cameras to take photos, the quality of th
 ## Database
 The SPAQ database and the annotations (MOS, image attributes scores, EXIF tags, and scene catogory labels) can be downloaded at the [**Baidu Yun**](https://pan.baidu.com/s/18YzAtXb4cGdBGAsxuEVBOw) (Code: b29m) or [**Google drive**](https://drive.google.com/drive/u/1/folders/1wZ6HOHi5h43oxTe2yLYkFxwHPgJ9MwvT).
 
-If your data was demaged after unzip command, this may be helpful for you.[**SPAQ_unzip_problem_and_solution**](./README_SPAQ_unzip_problem_and_solution.md)
+If your data get demaged after unzip command, this may be helpful for you.[**SPAQ_unzip_problem_and_solution**](./README_SPAQ_unzip_problem_and_solution.md)
 
 ## Proposed Models 
 We train a baseline (BL) to predict the quality of captured images and three variants that make use of EXIF tags (MT-E), image attributes (MT-A), and scene category labels (MT-S). We provide two images to test the blind image quality assessment (BIQA) models.
