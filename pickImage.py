@@ -13,6 +13,7 @@ def openreadtxt(file_name):
     file_data = file.readlines() 
     for row in file_data:
         row = row.strip('\n')
+        row = row[-9:]
         shutil.copy(f"TestImage/{row}", dst)
 
 openreadtxt(file_name)
