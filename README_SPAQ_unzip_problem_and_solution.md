@@ -54,6 +54,18 @@ import scipy.io
 import xlrd
 from tqdm import tqdm
 
+def pil_loader(path):
+     with open(path, 'rb') as f:
+        img = Image.open(f)
+        try:
+            re = img.convert('RGB')
+        except Exception as e:
+            print(path)
+            print(e)
+
+        return re
+
+
 ## DEFINE Args
 root = "" # your SPAQ dataset location
 index = list(range(0, 11125))
@@ -93,6 +105,7 @@ def openreadtxt(file_name):
     file_data = file.readlines() 
     for row in file_data:
         row = row.strip('\n')
+        row = row[-9:]
         shutil.copy(f"TestImage/{row}", dst)
 
 openreadtxt(file_name)
