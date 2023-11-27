@@ -11,6 +11,16 @@ import scipy.io
 import xlrd
 from tqdm import tqdm
 
+def pil_loader(path):
+    with open(path, 'rb') as f:
+        img = Image.open(f)
+        try:
+            re = img.convert('RGB')
+        except Exception as e:
+            print(path)
+            #print(e)
+        return re
+
 ## DEFINE Args
 root = "" # your SPAQ dataset location
 index = list(range(0, 11125))
